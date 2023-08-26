@@ -1,7 +1,7 @@
 # Intro
 A work in progress, early stage implementation of several pieces that
-makeup a computer using electronic components. Making using of Verilog,
-SystemVerilog, and open source tools for compilation and analysis.
+makeup a computer using electronic components done in my freetime in between work, projects and openGPMP. 
+Making using of Verilog, SystemVerilog, and open source tools for compilation and analysis. 
 
 # Progress
 From scratch with ICs or crystals:
